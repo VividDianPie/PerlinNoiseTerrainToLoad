@@ -1,0 +1,4 @@
+#Sun Jul 31 17:15:49 CST 2022
+base.0=D\:\\UnityAllTestProject\\UntiyPerlinNoiseTerrainToLoad\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
